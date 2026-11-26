@@ -1,0 +1,2 @@
+pp = "haha
+print(pp)
